@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "107628019949",
+    "firebase_url": "https://mingfcm.firebaseio.com",
+    "project_id": "mingfcm",
+    "storage_bucket": "mingfcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:107628019949:android:ddac14326489b285",
+        "android_client_info": {
+          "package_name": "tw.org.cmtseng.mingfcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "107628019949-ore21ecb7fqaie0i6jl437jp7ha53pba.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "tw.org.cmtseng.mingfcm",
+            "certificate_hash": "fb5e959c79af590d16f3983ef89a289a60647f5f"
+          }
+        },
+        {
+          "client_id": "107628019949-37nb95v469vr4fv4q2aq9tfl77hp6gt6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7u3g9Aq15NgIB-J79cHpS5PRDfDI5sBI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "107628019949-37nb95v469vr4fv4q2aq9tfl77hp6gt6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
